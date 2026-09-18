@@ -51,23 +51,6 @@ Design, brand, and engineering decisions are documented in [`AGENTS.md`](AGENTS.
         └── process.svg     # Research process diagram (problem → impact)
 ```
 
-## Preview Locally
-
-Assets use relative paths (inline sprite + SVG images), so serve the folder over HTTP instead of opening `index.html` from disk:
-
-```sh
-python3 -m http.server 8123
-# http://localhost:8123
-```
-
-## Deployment
-
-Served on **GitHub Pages** from branch `main`, repository root.
-
-- URL: https://alineafoundation.id
-- Mirror: https://ade-m.github.io/alinea-web
-- DNS: `alineafoundation.id` → 4 GitHub Pages A records (`185.199.108.153`–`185.199.111.153`)
-
 ## License
 
 Copyright © 2026 ALINEA Research Foundation.
