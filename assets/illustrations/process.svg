@@ -4,10 +4,10 @@
 <line x1="520" y1="80.0" x2="554" y2="80.0" stroke="#101010" stroke-width="3"/><polygon points="570,80.0 554,72.0 554,88.0" fill="#101010"/>
 <line x1="790" y1="80.0" x2="824" y2="80.0" stroke="#101010" stroke-width="3"/><polygon points="840,80.0 824,72.0 824,88.0" fill="#101010"/>
 <line x1="950.0" y1="120" x2="950.0" y2="144" stroke="#101010" stroke-width="3"/>
-<polygon points="950.0,160 942.0,176 958.0,176" fill="#101010"/>
-<line x1="586" y1="200.0" x2="790" y2="200.0" stroke="#101010" stroke-width="3"/><polygon points="570,200.0 586,192.0 586,208.0" fill="#101010"/>
-<line x1="316" y1="200.0" x2="520" y2="200.0" stroke="#101010" stroke-width="3"/><polygon points="300,200.0 316,192.0 316,208.0" fill="#101010"/>
-<line x1="46" y1="200.0" x2="250" y2="200.0" stroke="#101010" stroke-width="3"/><polygon points="30,200.0 46,192.0 46,208.0" fill="#101010"/>
+<polygon points="950.0,160 942.0,144 958.0,144" fill="#101010"/>
+<line x1="840" y1="200.0" x2="806" y2="200.0" stroke="#101010" stroke-width="3"/><polygon points="790,200.0 806,192.0 806,208.0" fill="#101010"/>
+<line x1="570" y1="200.0" x2="536" y2="200.0" stroke="#101010" stroke-width="3"/><polygon points="520,200.0 536,192.0 536,208.0" fill="#101010"/>
+<line x1="300" y1="200.0" x2="266" y2="200.0" stroke="#101010" stroke-width="3"/><polygon points="250,200.0 266,192.0 266,208.0" fill="#101010"/>
 <rect x="16" y="26" width="28" height="28" fill="#d9ff43" stroke="#101010" stroke-width="3"/><text x="30" y="45" font-family="Arial" font-size="13" font-weight="900" text-anchor="middle" fill="#101010">01</text>
 <rect x="30" y="40" width="220" height="80" fill="#f7f7f3" stroke="#101010" stroke-width="3"/>
 <text x="50" y="78" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="900" letter-spacing="0.5" fill="#101010">PROBLEM</text>
