@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 620" role="img" aria-label="Editorial abstract illustration. Concentric research rings, evidence bars, and a blocky arrow pointing toward impact.">
+  <rect width="820" height="620" fill="#f7f7f3"/>
+
+  <g stroke="#101010" fill="none" stroke-width="4">
+    <circle cx="260" cy="270" r="180"/>
+    <circle cx="260" cy="270" r="125"/>
+    <circle cx="260" cy="270" r="70"/>
+  </g>
+  <circle cx="260" cy="270" r="125" fill="none" stroke="#d9ff43" stroke-width="16" stroke-dasharray="130 380" transform="rotate(120 260 270)"/>
+
+  <g transform="translate(50 36) rotate(-8)">
+    <rect width="286" height="66" fill="#101010"/>
+    <text x="16" y="43" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="800" letter-spacing="2" fill="#f7f7f3">APPROVED · RESEARCH</text>
+  </g>
+
+  <line x1="48" y1="330" x2="48" y2="600" stroke="#101010" stroke-width="3"/>
+  <g stroke="#101010" stroke-width="5">
+    <line x1="48" y1="330" x2="48" y2="344"/>
+    <line x1="48" y1="400" x2="48" y2="414"/>
+    <line x1="48" y1="470" x2="48" y2="484"/>
+  </g>
+
+  <g fill="#101010">
+    <rect x="110" y="484" width="66" height="96"/>
+    <rect x="196" y="534" width="66" height="46"/>
+    <rect x="282" y="442" width="66" height="138"/>
+  </g>
+  <line x1="84" y1="580" x2="560" y2="580" stroke="#101010" stroke-width="3"/>
+
+  <path d="M316 498h36v36h-36z" transform="rotate(45 334 516)" fill="none" stroke="#101010" stroke-width="5"/>
+
+  <text x="470" y="248" font-family="Arial,Helvetica,sans-serif" font-size="102" font-weight="900" letter-spacing="-5" fill="#101010">IMPACT.</text>
+  <text x="472" y="286" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#777">RESEARCH → EVIDENCE → ACTION</text>
+
+  <g transform="translate(230 360)">
+    <rect x="0" y="12" width="210" height="22" fill="#d9ff43"/>
+    <polygon points="250,23 172,-16 172,62" fill="#101010"/>
+  </g>
+
+  <rect x="660" y="44" width="64" height="64" fill="#d9ff43" stroke="#101010" stroke-width="4"/>
+  <rect x="724" y="44" width="22" height="150" fill="#101010"/>
+  <rect x="660" y="110" width="22" height="62" fill="#101010"/>
+</svg>
