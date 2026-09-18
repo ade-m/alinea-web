@@ -6,7 +6,7 @@
 
 > **From Inquiry to Impact.**
 
-Official website for **ALINEA Research Foundation** — an independent applied research foundation based in Indonesia. We explore how research, intelligent technologies, and engineering can be translated into systems that address real-world problems.
+Official website for **ALINEA Research Foundation** — an applied research foundation based in Indonesia. We explore how research, intelligent technologies, and engineering can be translated into systems that address real-world problems.
 
 > We start with the problem, not the technology.
 
